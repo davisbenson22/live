@@ -1,4 +1,4 @@
-# v0.6.2
+# v0.6.3
 
 provider "aws" {
   region = "us-west-1"
